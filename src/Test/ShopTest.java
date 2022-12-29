@@ -3,9 +3,9 @@ package Test;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
-import ru.geekbrains.junit5.simple_shopping_cart.Cart;
-import ru.geekbrains.junit5.simple_shopping_cart.Product;
-import ru.geekbrains.junit5.simple_shopping_cart.Shop;
+import ru.geekbrains.simple_shopping_cart.Cart;
+import ru.geekbrains.simple_shopping_cart.Product;
+import ru.geekbrains.simple_shopping_cart.Shop;
 
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
